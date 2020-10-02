@@ -361,6 +361,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Nonlinear dynamics and chaos (1994)](http://www.goodreads.com/book/show/116164.Nonlinear_Dynamics_and_Chaos)
 - [📕 Pale blue dot (1994)](http://www.goodreads.com/book/show/61663.Pale_Blue_Dot)
 - [📕 Black holes and time warps (1994)](http://www.goodreads.com/book/show/17362.Black_Holes_Time_Warps)
+- [📕 The universe in a nutshell (2001)(http:/www.epdf.pub.com)
 - [📕 The fabric of the cosmos (2004)](http://www.goodreads.com/book/show/22435.The_Fabric_of_the_Cosmos)
 - [📕 Fields of colour: the theory that escaped Einstein (2010)](http://www.goodreads.com/book/show/13485212-fields-of-color)
 - [📕 The theoretical minimum (2013)](http://www.goodreads.com/book/show/13587145-the-theoretical-minimum)
